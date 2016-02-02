@@ -6,7 +6,8 @@
 # imgmagick
 
 # 手順
-# host.txtにキャプチャしたいURLを入力
+# キャプチャしたいURLをコピー※複数可
+# クリップボードにある状態のまま
 # casper.commandをクリックで実行
 
 cd `dirname $0`
